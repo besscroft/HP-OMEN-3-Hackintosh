@@ -42,7 +42,7 @@
 
 ### Some reference tutorials
 
-[黑苹果教程](https://blog.52bess.com/clover.html)
+[黑苹果教程](https://blog.52bess.com/posts/2019/clover.html)
 
 [HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://mp.weixin.qq.com/s/oPAwyR9WafBcg0N-raPWYw)
 
