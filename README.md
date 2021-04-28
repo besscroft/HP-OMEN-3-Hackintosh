@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/License-GPL--3.0-brightgreen.svg?style=flat-square)](https://github.com/besscroft/HP-OMEN-3-Hackintosh/blob/master/LICENSE)
 [![](https://img.shields.io/badge/platform-markdown-blue.svg?style=flat-square)](https://shields.io/category/chat)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg?style=flat-square)](https://.52bess.com/)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.svg?style=flat-square)](https://52bess.com/)
 [![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%AA%E5%93%87%E6%B4%BE%E7%94%9F-lightgrey.svg?style=flat-square)]()
 
 ![](images/img01.jpg)
@@ -42,11 +42,9 @@
 
 ### Some reference tutorials
 
-[黑苹果教程](https://blog.52bess.com/posts/2019/clover.html)
+[黑苹果教程](https://blog.besscroft.com/tech/clover/)
 
-[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://mp.weixin.qq.com/s/oPAwyR9WafBcg0N-raPWYw)
-
-[macOS Mojave黑苹果教程！](https://mp.weixin.qq.com/s/st7feN-yHfDcvCEngvbIEw)
+[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://www.jianshu.com/p/c98ead90e786)
 
 [【黑果小兵】macOS Mojave 10.14.6 18G87 正式版 with Clover 5050原版镜像[双EFI双平台终极版]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)
 

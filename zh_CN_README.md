@@ -40,11 +40,9 @@
 
 ### 一些参考教程
 
-[黑苹果教程](https://blog.52bess.com/posts/2019/clover.html)
+[黑苹果教程](https://blog.besscroft.com/tech/clover/)
 
-[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://mp.weixin.qq.com/s/oPAwyR9WafBcg0N-raPWYw)
-
-[macOS Mojave黑苹果教程！](https://mp.weixin.qq.com/s/st7feN-yHfDcvCEngvbIEw)
+[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://www.jianshu.com/p/c98ead90e786)
 
 [【黑果小兵】macOS Mojave 10.14.6 18G87 正式版 with Clover 5050原版镜像[双EFI双平台终极版]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)
 
