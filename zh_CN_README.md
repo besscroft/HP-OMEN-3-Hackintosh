@@ -2,11 +2,11 @@
 
 ### 😜此EFI基本OK，不足之处欢迎反馈！
 
-<p><center><a href="https://github.com/bessyjl/HP-OMEN-3-Hackintosh">English</a>|中文(当前)</center></p>
+<p><center><a href="https://github.com/besscroft/HP-OMEN-3-Hackintosh">English</a>|中文(当前)</center></p>
 
 [![](https://img.shields.io/badge/License-GPL--3.0-brightgreen.svg?style=flat-square)](https://github.com/besscroft/HP-OMEN-3-Hackintosh/blob/master/LICENSE)
 [![](https://img.shields.io/badge/platform-markdown-blue.svg?style=flat-square)](https://shields.io/category/chat)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.sv?style=flat-squareg)](https://52bess.com/)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-orange.sv?style=flat-squareg)](https://besscroft.com/)
 [![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%AA%E5%93%87%E6%B4%BE%E7%94%9F-lightgrey.svg?style=flat-square)]()
 
 ![](images/img01.jpg)
@@ -88,8 +88,6 @@ A:原因是旧版macOS 安装镜像中的证书过期，并且苹果没有更新
 暗影精灵3的声卡是ALC295，找到我在repo中提供的`VoodooHDA-295.pkg`，并安装它。我很懒，只提供了这一种方案，Google给您提供了更好的方案，只是看您怎么选了！
 
 ### 联系我
-
-Email：631908942#qq.com
 
 QQ群：821557332
 
