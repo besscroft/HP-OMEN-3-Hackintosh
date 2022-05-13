@@ -42,9 +42,9 @@
 
 ### Some reference tutorials
 
-[黑苹果教程](https://blog.besscroft.com/tech/2019/clover/)
+[黑苹果教程](https://blog.besscroft.com/articles/2019/clover/)
 
-[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://www.jianshu.com/p/c98ead90e786)
+[HP暗影精灵3黑苹果基本完工](https://blog.besscroft.com/articles/2019/hpomen3hackintosh/)
 
 [【黑果小兵】macOS Mojave 10.14.6 18G87 正式版 with Clover 5050原版镜像[双EFI双平台终极版]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)
 
@@ -88,9 +88,5 @@ A:The reason is that the certificate in the old macOS installation image has exp
 ### 🔊Solutions if speakers are not available
 
 The sound card for OMEN 3 is ALC295. Find the `VoodooHDA-295.pkg` I provided in the repo and install it.I'm lazy and only provide this one solution, Google provides you a better solution, just to see how you choose!
-
-### Contact me
-
-QQ group：821557332
 
 If you have any suggestions, welcome feedback!

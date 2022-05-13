@@ -40,9 +40,9 @@
 
 ### 一些参考教程
 
-[黑苹果教程](https://blog.besscroft.com/tech/2019/clover/)
+[黑苹果教程](https://blog.besscroft.com/articles/2019/clover/)
 
-[HP暗影精灵3安装 macOS 10.14.3 Mojave 记录](https://www.jianshu.com/p/c98ead90e786)
+[HP暗影精灵3黑苹果基本完工](https://blog.besscroft.com/articles/2019/hpomen3hackintosh/)
 
 [【黑果小兵】macOS Mojave 10.14.6 18G87 正式版 with Clover 5050原版镜像[双EFI双平台终极版]](https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html)
 
@@ -86,9 +86,5 @@ A:原因是旧版macOS 安装镜像中的证书过期，并且苹果没有更新
 ### 🔊如果扬声器无法使用的解决方案
 
 暗影精灵3的声卡是ALC295，找到我在repo中提供的`VoodooHDA-295.pkg`，并安装它。我很懒，只提供了这一种方案，Google给您提供了更好的方案，只是看您怎么选了！
-
-### 联系我
-
-QQ群：821557332
 
 如果大家有一些建议，也欢迎反馈！
